@@ -1,0 +1,7 @@
+--- 
+name: "Sam's Revenge"
+description: |
+  We believe Sam has been spying on one of his friends, unfortunately all we were able to get as far as evidence  was a pcap [capture](http://$static_file_server/gbc-88acf1ca7abb4f27972b0658d9fe191a/capture.pcap) and an archive of his home [directory](http://$static_file_server/gbc-88acf1ca7abb4f27972b0658d9fe191a/archive.7z). Unfortunately, the archive is password protected. You need to get at the information in this archive and find out if it contains enough evidence to prosecute Sam. 
+  
+  Archive MD5: f78d10d21ecff8a9addf08c4d02b085f<br/>Capture MD5: b84be2c7b1294ce2dfa4a1e044087256
+flag: "MCA-D51CD2A3"
